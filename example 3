@@ -1,0 +1,16 @@
+package odev3;
+
+public class odev3 {
+
+	public static void main(String[] args) {
+		
+		int buyukKardes = 8;
+		int kucukKardes = 3;
+		
+		System.out.println(buyukKardes + kucukKardes);
+		System.out.println((buyukKardes + kucukKardes) / 2);
+		
+
+	}
+
+}
