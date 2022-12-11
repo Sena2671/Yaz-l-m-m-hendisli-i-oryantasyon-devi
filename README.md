@@ -1,1 +1,1 @@
-# Yaz-l-m-m-hendisli-i-oryantasyon-devi
+# Yazilim muhendisligi oryantasyon odevi
