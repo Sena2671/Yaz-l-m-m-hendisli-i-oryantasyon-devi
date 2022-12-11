@@ -1,0 +1,15 @@
+package odev4;
+
+public class odev4 {
+
+	public static void main(String[] args) {
+		 
+		final double KILOMETRE_MIL_KATSAYISI =  1.609;
+		double mil = 100;
+		double kilometre = mil*KILOMETRE_MIL_KATSAYISI;
+		
+		System.out.println( mil*KILOMETRE_MIL_KATSAYISI);
+		
+			}
+
+}
